@@ -206,7 +206,7 @@ ul, li {
 }
 
 .two-column-image {
-  width: 33%;
+  width: 100%;
 }
 
 .two-column-image img {
@@ -214,7 +214,7 @@ ul, li {
 }
 
 .two-column-desc {
-  width: 62%;
+  width: 100%;
 }
 
 /*--------------------------------
